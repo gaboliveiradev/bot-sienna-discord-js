@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Qual a cor do céu?",
+        "answers": ["azul"]
+    },
+    {
+        "question": "Quantas letras há no alfabeto?",
+        "answers": ["26"]
+    },
+    {
+        "question": "Quanto é a raiz quadrada de 2500",
+        "answers": ["50"]
+    },
+    {
+        "question": "Qual o nome do meu desenvolvedor? Dica G......",
+        "answers": ["Gabriel"]
+    },
+    {
+        "question": "Quantos estados possui o EUA?",
+        "answers": ["50"]
+    },
+    {
+        "question": "Qual o valor aproximadamente de PI",
+        "answers": ["3,14"]
+    }
+]
