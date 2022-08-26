@@ -6,7 +6,7 @@ exports.run = async function(client, message, args, database) {
 
   const lewdembed = new Discord.MessageEmbed()
   .setDescription(`${message.author} Yamate Kudasaiiiiiiiii`)
-  .setImage("https://imgur.com/MocN7rU.gif")
+  .setImage("")
   .setColor(`#000000`)
 
   message.channel.send(lewdembed);
